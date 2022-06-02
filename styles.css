@@ -21,3 +21,9 @@ p{
     margin-top: 150px;
     margin-bottom: 50px;
 }
+.contactos {
+    background-color: #f1f1f1;
+    font-size: 100px;
+    align-items: center;
+    padding: 50px 650px;
+}
