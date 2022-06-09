@@ -8,6 +8,7 @@ p{
 .container{
     text-align: justify;
     font-size: 25px;
+    justify-content: center;
 }
 
 .titulos{
@@ -24,8 +25,11 @@ p{
 .contactos {
     background-color: #f1f1f1;
     font-size: 100px;
-    align-items: center;
-    padding: 50px 650px;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    
+    
 }
 .formacion {
     margin-top: 150px;
